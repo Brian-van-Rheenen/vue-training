@@ -1,0 +1,11 @@
+Als je een nieuwe les gaat starten moet je het volgende doen:
+
+Voor het makkelijke kan je bij het aanmaken van nieuwe bestanden die van de vorige les dupliceren.
+
+1) Een nieuwe view aanmaken in de map: `resources/views/les-x.blade.php`.
+2) Een nieuw js bestand aanmaken in de map: `resources/assets/js/lessen/les-x.js`.
+3) Het nieuwe js bestand toevoegen in `webpack.mix.js`.
+4) Een nieuwe route aanmaken in `routes/web.php`.
+5) Je assets opnieuw compilen met `npm run dev` in je terminal (F1).
+
+Als je hier vragen over hebt kan je Mace of Jannick benaderen via Slack of even roepen.
